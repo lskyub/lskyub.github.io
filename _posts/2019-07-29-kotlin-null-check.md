@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "kotlin null 처리"
+title:  "[Kotlin] null 처리"
 date:   2017-07-11 14:41:00 +0900
 categories: etc.
 ---
@@ -61,5 +61,5 @@ if(temp != null){
 temp?.let{ it -> it.toUppercase() }
 ```
 
-### 참고
+**참고**
 - https://tourspace.tistory.com/114
