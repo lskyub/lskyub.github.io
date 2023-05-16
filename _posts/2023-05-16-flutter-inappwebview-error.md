@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Flutter] inappwebview 사용 이슈 공유 "
-date:   2020-05-17 10:56:00 +0900
+date:   2023-05-16 10:56:00 +0900
 categories: flutter, error
 ---
 
