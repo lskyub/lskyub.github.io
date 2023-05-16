@@ -99,6 +99,8 @@ pod repo update
 pod install (again)
 ```
 
+mac cpu 에 따란 분기
+
 mac intell cpu
 ```bash
 sudo gem install cocoapods
