@@ -81,7 +81,7 @@ img_cdn: "https://chirpy-img.netlify.app"
 
 # the avatar on sidebar, support local or CORS resources
 # avatar: "/commons/avatar.jpg"
-avatar: '/assets/img/mstile-150x150.png'
+avatar: '/assets/img/avatar.png'
 
 # boolean type, the global switch for TOC in posts.
 toc: true
