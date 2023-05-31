@@ -83,6 +83,7 @@ post_install do |installer|
 end
 ```
 
+### 해결
 하위 버전의 flutter를 사용하고 있다면 flutter 업데이트 필요
 ```bash
 flutter upgrade
