@@ -2,7 +2,7 @@
 layout: post
 title:  "[Kotlin] null 처리"
 date:   2017-07-11 14:41:00 +0900
-categories: etc.
+categories: android
 ---
 
 ### ?.연산자

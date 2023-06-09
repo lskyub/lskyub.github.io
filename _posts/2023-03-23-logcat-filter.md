@@ -2,7 +2,7 @@
 layout: post
 title:  "Android Studio logcat에 filter를 적용"
 date:   2020-05-17 10:56:00 +0900
-categories: etc.
+categories: android
 ---
 
 안드로이드 스튜디오 버전이 업데이트 되며 변경된 logcat에 filter를 적용 하는 방법<br>
