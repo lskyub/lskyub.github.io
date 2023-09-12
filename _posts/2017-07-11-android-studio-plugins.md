@@ -3,7 +3,7 @@ layout: post
 title:  "Android Studio Plugins 추천"
 date:   2017-07-11 14:41:00 +0900
 categories: android
-tags: android
+tags: [android]
 ---
 
 Android Studio를 사용하며 괜찮았던 Plugins 추천

@@ -3,7 +3,7 @@ layout: post
 title:  "[Android] ripple effect custom 및 적용"
 date:   2020-05-17 10:56:00 +0900
 categories: android
-tags: android, xml
+tags: [android, xml]
 ---
 
 21이상 버전에서의 ripple effect custom 방법
