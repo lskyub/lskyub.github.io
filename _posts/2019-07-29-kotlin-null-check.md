@@ -3,6 +3,7 @@ layout: post
 title:  "[Kotlin] null 처리"
 date:   2017-07-11 14:41:00 +0900
 categories: android
+tags: android, kotlin
 ---
 
 ### ?.연산자

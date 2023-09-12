@@ -3,6 +3,7 @@ layout: post
 title:  "[Flutter] inappwebview 사용 빌드 오류"
 date:   2023-05-16 09:20:00 +0900
 categories: flutter
+tags: flutter, inappwebview
 ---
 
 flutter webview library `inappwebview` 를 사용하여 빌드시 ios에서 오류 발생

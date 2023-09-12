@@ -3,6 +3,7 @@ layout: post
 title:  "[Android] custom font 적용 방법"
 date:   2023-03-23 13:51:00 +0900
 categories: android
+tags: android, xml
 ---
 
 TextView 에 fontFamily를 통한 font 적용 파일 저장 위치 res 밑에 font 폴더를 생성 후 적용하고 싶은 폰트파일을 해당위치 저장 및 font_family.xml 을 생성
