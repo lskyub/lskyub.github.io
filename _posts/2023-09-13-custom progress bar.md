@@ -26,15 +26,14 @@ background, progress, dot 순서로 onDraw통해 화면에 표현<br>
 화면 사이즈를 기반으로 radius값을 구하고 drawArc를 통해 백그라운드, progress를 구현 하고 마지막으로 dot를 구현 하여 요구 사항과 같이 view를 생성
 
 
- - Progress 중앙의 텍스트는 xml에서 처리 하였으며 callback을 통해 텍스트를 업데이트 하는 방식으로 애니메이션을 연결<br>
-animation callback listener 처리
+ - Progress 중앙의 텍스트는 xml에서 처리 하였으며 callback을 통해 텍스트를 업데이트 하는 방식으로 애니메이션을 연결<br> 
+ animation callback listener 처리<br>
 ```kotlin
 interface ProgressListener {
     fun onProgress(value: Float)
     fun onProgressEnd()
 }
 
-// Animation
 addListener(
     object : Animator.AnimatorListener {
         override fun onAnimationEnd(animation: Animator) {
