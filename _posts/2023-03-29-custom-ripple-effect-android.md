@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "[Android] ripple effect custom 및 적용"
-date:   2020-05-17 10:56:00 +0900
+date:   2023-03-29 10:56:00 +0900
 categories: android
 tags: [android, xml]
 ---

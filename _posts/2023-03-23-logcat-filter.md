@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Android Studio logcat에 filter를 적용"
-date:   2020-05-17 10:56:00 +0900
+date:   2023-03-23 10:56:00 +0900
 categories: android
 tags: [android studio]
 ---
