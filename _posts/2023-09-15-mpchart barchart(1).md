@@ -69,7 +69,3 @@ class MyMarkerView(context: Context?, private val maxStep: Int, layoutResource: 
     }
 }
 ```
-
-```kotlin
-
-```
