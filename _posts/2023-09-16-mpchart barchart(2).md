@@ -4,7 +4,6 @@ title: "[MPAndroidChart] BarChart Custom (2)"
 date: 2023-09-16 09:00:00 +0900
 categories: android
 tags: [android, MPAndroidChart, BarChart, custom]
-image: /assets/img/post/custom_progress_bar.png
 ---
 
 "MPAndroidChart"에서 BarChart를 사용하며 일부 사항을 작성<br>
