@@ -71,8 +71,8 @@ ISO 최대값을 낮게 설정한 이유는 액션캠 특성상 센서 사이즈
 
 **참고**
 <br>
-https://m.post.naver.com/viewer/postView.naver?volumeNo=35532703&memberNo=35683830&searchKeyword=11
+[고프로코리아](https://m.post.naver.com/viewer/postView.naver?volumeNo=35532703&memberNo=35683830&searchKeyword=11)
 <br>
-https://thelife.marketing/2023/03/24/%EA%B3%A0%ED%94%84%EB%A1%9C-%EC%B4%AC%EC%98%81-%ED%8C%81/
+[고프로 11 (GoPro 11) 촬영 팁](https://thelife.marketing/2023/03/24/%EA%B3%A0%ED%94%84%EB%A1%9C-%EC%B4%AC%EC%98%81-%ED%8C%81/)
 <br>
-https://selfish-gene.tistory.com/entry/%EA%B3%A0%ED%94%84%EB%A1%9C-%EC%B4%AC%EC%98%81%EA%B8%B0%EB%8A%A5-%EB%B0%8F-%EC%B5%9C%EC%A0%81-%EC%B4%AC%EC%98%81%EB%AA%A8%EB%93%9C-%EC%84%B8%ED%8C%85%EB%B8%8C%EC%9D%B4%EB%A1%9C%EA%B7%B8%EC%9A%A9-%EC%88%98%EC%A4%91%EC%B4%AC%EC%98%81-%EC%95%BC%EA%B0%84%EC%B4%AC%EC%98%81-%EC%83%81%EC%84%B8%EB%A6%AC%EB%B7%B0
+[고프로 촬영기능 및 최적 촬영모드 세팅](https://selfish-gene.tistory.com/entry/%EA%B3%A0%ED%94%84%EB%A1%9C-%EC%B4%AC%EC%98%81%EA%B8%B0%EB%8A%A5-%EB%B0%8F-%EC%B5%9C%EC%A0%81-%EC%B4%AC%EC%98%81%EB%AA%A8%EB%93%9C-%EC%84%B8%ED%8C%85%EB%B8%8C%EC%9D%B4%EB%A1%9C%EA%B7%B8%EC%9A%A9-%EC%88%98%EC%A4%91%EC%B4%AC%EC%98%81-%EC%95%BC%EA%B0%84%EC%B4%AC%EC%98%81-%EC%83%81%EC%84%B8%EB%A6%AC%EB%B7%B0)
