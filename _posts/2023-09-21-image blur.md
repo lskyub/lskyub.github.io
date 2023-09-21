@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Android Image Blur Effect"
+title: "Android Image Blur (이미지 흐리게) 처리 하기"
 date: 2023-09-21 09:00:00 +0900
 categories: android
 tags: [android, ImageView, Blur, toolkit, renderscript]
@@ -33,7 +33,8 @@ developer를 확인하여 RenderScript 제거후 사용 가능한 기술에 대�
 repositories {
      maven { url 'https://jitpack.io' }
 }
-
+```
+```gradle
 dependencies {
     implementation 'com.github.android:renderscript-intrinsics-replacement-toolkit:b6363490c3'
 }
@@ -59,6 +60,8 @@ public static RenderEffect createBlurEffect(float radiusX,float radiusY,@NonNull
 >radiusX – X축을 따라 blur<br>
 >radiusY – Y축을 따라 blur<br>
 >edgeTreatment – blur 방법에 대한 정책
+
+- RenderEffect.createBlurEffect 적용
 ```kotlin
 val effect = RenderEffect.createBlurEffect(radius * 1.5f, radius * 1.5f, Shader.TileMode.CLAMP)
 setRenderEffect(effect)
