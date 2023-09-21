@@ -25,6 +25,7 @@ _요구 사항 이미지_
 developer를 확인하여 RenderScript 제거후 사용 가능한 기술에 대해 정리
  - Android 12 이하 : Toolkit
  - Android 12 이상 : RenderEffect
+
 위 기술들의 경우 문서에 작성된 내용으로 기존 RenderScript 보다 2배의 성능 향상을 보인다고함.
 
 1. Toolkit
@@ -84,7 +85,7 @@ for (i in 0..downsampleFactor) {
 }
 setImageBitmap(bitmap)
 ```
-
+<br><br>
 **참고**
 <br>
 [android developer](https://developer.android.com/guide/topics/renderscript/migrate?hl=ko) : RenderScript에서 이전하기
