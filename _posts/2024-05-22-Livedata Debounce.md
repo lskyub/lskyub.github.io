@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Livedata Debounce 처리"
-date: 2024-05-22 15:00:00 +0900
+date: 2024-05-22 09:00:00 +0900
 categories: abdriud.
 tags: []
 ---
