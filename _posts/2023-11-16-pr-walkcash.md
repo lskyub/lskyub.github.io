@@ -24,5 +24,5 @@ tags: []
 
 캐시 받을려면 잊지말고☆적립 화면을☆꼭 눌러주세요~
 
-워크캐시 다운로드 : https://play.google.com/store/apps/details?id=walk.cash
+[워크캐시 다운로드](https://play.google.com/store/apps/details?id=walk.cash)/
 추천인 ID : sklim112
