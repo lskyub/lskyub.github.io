@@ -2,8 +2,8 @@
 layout: post
 title: "Livedata Debounce 처리"
 date: 2024-05-22 09:00:00 +0900
-categories: abdriud.
-tags: []
+categories: android
+tags: [android, custom]
 ---
 
 flow를 사용하지 않고 livedata를 Observer로 사용할때 
