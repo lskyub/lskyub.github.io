@@ -6,7 +6,7 @@ categories: etc.
 tags: []
 ---
 
-[![워크캐시](/assets/img/post/wc_sklim112_3.jpg)](https://play.google.com/store/apps/details?id=walk.cash)<br>
+[![워크캐시](/assets/img/wc_sklim112_3.jpg)](https://play.google.com/store/apps/details?id=walk.cash)<br>
 
 워크캐시 사용법 간단합니다.
 
