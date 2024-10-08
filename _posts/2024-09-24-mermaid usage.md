@@ -2,7 +2,7 @@
 layout: post
 title: "Mermaid 플로우차트 작성 법"
 date: 2024-09-24 09:00:00 +0900
-categories: etc
+categories: etc.
 tags: [mermaid, notion, confluence]
 ---
 
