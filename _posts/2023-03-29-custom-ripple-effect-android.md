@@ -11,7 +11,7 @@ tags: [android, xml]
 res - drawable 폴더에 ripple_effect.xml 파일을 아래와 같이 생성
 
 ### ripple_effect.xml 작성
-```bash
+```xml
 <?xml version="1.0" encoding="utf-8"?>
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="@color/main_round">
@@ -42,7 +42,7 @@ res - drawable 폴더에 ripple_effect.xml 파일을 아래와 같이 생성
 ```
 
 ### ripple effect 적용
-```bash
+```xml
 <TextView
      android:layout_width="wrap_content"
      android:layout_height="wrap_content"
