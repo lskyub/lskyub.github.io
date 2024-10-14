@@ -15,13 +15,13 @@ Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material D
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:text="Ripple 버튼"
-    android:background="?attr/selectableItemBackground" />
+    android:background="attr/selectableItemBackground" />
 
 <ImageButton
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
     android:src="@drawable/ic_example"
-    android:background="?attr/selectableItemBackgroundBorderless" />
+    android:background="attr/selectableItemBackgroundBorderless" />
 ```
 - selectableItemBackground : 이 속성은 기본 선택 가능 배경을 적용하며, API 21 이상에서는 Ripple Effect가 포함됩니다.
 - selectableItemBackgroundBorderless를 : 이 속성은 테두리 없는 Ripple을 제공하며, 뷰의 경계에 클리핑되지 않습니다.
