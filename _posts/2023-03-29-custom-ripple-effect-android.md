@@ -10,7 +10,7 @@ Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material D
 
 ## XML에서 Ripple Effect 구현하기
 1. 레이아웃 파일에서 XML 속성을 사용하는 것 으로 background 속성에 ?attr/selectableItemBackground, ?attr/selectableItemBackgroundBorderless를 사용하는 방법이 있습니다.
-```xml
+```bash
 <Button
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
@@ -27,7 +27,7 @@ Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material D
 - 이 속성은 테두리 없는 Ripple을 제공하며, 뷰의 경계에 클리핑되지 않습니다.
 
 2. 커스터마이즈하려면 커스텀 Ripple Drawable을 정의할 수 있습니다.
-```xml
+```bash
 <?xml version="1.0" encoding="utf-8"?>
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
     android:color="@color/main_round">
