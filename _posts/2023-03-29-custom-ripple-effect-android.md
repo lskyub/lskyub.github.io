@@ -13,6 +13,8 @@ Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material D
 
 
 - ?attr/selectableItemBackground : 기본 선택 가능 배경을 적용하며, API 21 이상에서는 Ripple Effect가 포함됩니다.
+
+
 ```xml
 <Button
     android:layout_width="wrap_content"
@@ -23,6 +25,8 @@ Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material D
 
 
 - ?attr/selectableItemBackgroundBorderless : 테두리 없는 Ripple을 제공하며, 뷰의 경계에 클리핑되지 않습니다.
+
+
 ```xml
 <Button
     android:layout_width="wrap_content"
@@ -34,6 +38,8 @@ Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material D
 
 
 - ripple_effect.xml 작성
+
+
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <ripple xmlns:android="http://schemas.android.com/apk/res/android"
@@ -65,6 +71,8 @@ Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material D
 
 
 - ripple effect 적용
+
+
 ```xml
 <Button
      android:layout_width="wrap_content"
