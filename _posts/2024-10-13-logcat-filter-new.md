@@ -3,7 +3,7 @@ layout: post
 title:  "Android Studio logcat에 filter를 적용"
 date:   2024-10-13 10:56:00 +0900
 categories: android
-tags: [android studio]
+tags: [android studio, logcat, filter]
 ---
 
 Android 개발 시 Logcat은 애플리케이션의 로그 메시지를 실시간으로 확인할 수 있는 강력한 도구입니다. 로그 메시지를 효과적으로 필터링하면 디버깅 과정을 더욱 효율적으로 진행할 수 있습니다.
