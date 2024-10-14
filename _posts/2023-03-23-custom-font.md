@@ -24,6 +24,8 @@ tags: [android, xml]
 #### 2.Assets 폴더 생성
 - app/src/main/assets/fonts/ 디렉토리를 생성합니다.
 - fonts 폴더에 준비한 폰트 파일을 복사합니다.
+
+
 #### 3.Assets 코드에서 Typeface 설정:
 ```kotlin
 val textView: TextView = findViewById(R.id.my_text_view)
@@ -42,13 +44,22 @@ Android 8.0 (API 레벨 26)부터 도입된 Fonts in XML 기능을 사용하면,
 1. 인터넷 연결이 필요할 수 있음.
 2. 특정 폰트 제공자의 정책에 의존.
 
+#### 1.폰트 파일 준비:
+- .ttf 또는 .otf 형식의 폰트 파일을 준비합니다.
+
+
+#### 3.Fonts 폴더 생성:
+- app/src/main/res/font/ 디렉토리를 생성합니다.
+- font 폴더에 준비한 폰트 파일을 복사합니다.
+
+
 ```bash
 res > font > sample.otf
 
 res > font > font_family.xml
 ```
 
-### font_family.xml 작성
+#### 3. font_family.xml 작성
 ```bash
 <?xml version="1.0" encoding="utf-8"?>
 <font-family xmlns:android="http://schemas.android.com/apk/res/android"
@@ -73,7 +84,7 @@ res > font > font_family.xml
 </font-family>
 ```
 
-### TextView font 적용
+#### 4. TextView font 적용
 ```bash
 <TextView
      android:layout_width="wrap_content"
