@@ -25,9 +25,12 @@ Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material D
     android:background="?attr/selectableItemBackgroundBorderless를" />
 ```
 - ?attr/selectableItemBackground : 기본 선택 가능 배경을 적용하며, API 21 이상에서는 Ripple Effect가 포함됩니다.
-- ?attr/selectableItemBackgroundBorderless : 테두리 없는 Ripple을 제공하며, 뷰의 경계에 클리핑되지 않습니다.
+- ?attr/selectableItemBackgroundBorderless : 테두리 없는 Ripple을 제공하며, 뷰의 경계에 클리핑되지 않습니다.<br><br>
 2. 커스터마이즈하려면 커스텀 Ripple Drawable을 정의할 수 있습니다.
-
+```xml
+```
+```xml
+```
 ## 21이하 버전 대체 방안
 API 21 미만의 기기에서는 위의 접근 방식이 StateListDrawable을 사용하여 Ripple 대신 유사한(비록 동일하지는 않지만) 피드백 메커니즘을 제공합니다.
 
