@@ -41,12 +41,18 @@ Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material D
         </shape>
     </item>
 </ripple>
+​
+```
 
-<Button
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:text="커스텀 Ripple"
-    android:background="@drawable/custom_ripple" />
+ripple effect 적용
+```xml
+<TextView
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:gravity="center"
+     android:text="테스트"
+     android:background="@drawable/ripple_effect"
+     android:textColor="@color/black" />
 ```
 
 ## 21이하 버전 대체 방안
