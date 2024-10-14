@@ -29,31 +29,6 @@ Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material D
 2. 커스터마이즈하려면 커스텀 Ripple Drawable을 정의할 수 있습니다.
 - ripple_effect.xml 작성
 ```xml
-<ripple xmlns:android="http://schemas.android.com/apk/res/android"
-    android:color="@color/main_round">
-    <item android:id="@android:id/mask">
-        <shape android:shape="rectangle">
-            <corners
-                android:bottomLeftRadius="5dp"
-                android:bottomRightRadius="5dp"
-                android:topLeftRadius="5dp"
-                android:topRightRadius="5dp" />
-            <solid android:color="@color/main_round" />
-            <corners android:radius="2dip" />
-        </shape>
-    </item>
-
-    <item android:id="@android:id/background">
-        <shape android:shape="rectangle">
-            <corners
-                android:bottomLeftRadius="5dp"
-                android:bottomRightRadius="5dp"
-                android:topLeftRadius="5dp"
-                android:topRightRadius="5dp" />
-            <solid android:color="@color/black" />
-        </shape>
-    </item>
-</ripple>
 ```
 
 - ripple effect 적용
