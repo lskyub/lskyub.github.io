@@ -9,22 +9,6 @@ tags: [android, xml]
 Ripple Effect는 Android 5.0 Lollipop (API 레벨 21)에서 도입된 Material Design 가이드라인의 일부로, 사용자 상호작용(예: 탭)에 반응하여 터치 지점에서 방사형 애니메이션을 표시함으로써 시각적 피드백 메커니즘을 제공합니다. 이 효과는 상호작용이 보다 반응적이고 직관적으로 느껴지도록 하여 사용자 경험을 향상시킵니다.
 
 ## XML에서 Ripple Effect 구현하기
-1. 레이아웃 파일에서 XML 속성을 사용하는 것 으로 background 속성에 selectableItemBackground, selectableItemBackgroundBorderless를 사용하는 방법이 있습니다.
-```xml
-<Button
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:text="Ripple 버튼"
-    android:background="?attr/selectableItemBackground" />
-
-<ImageButton
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"
-    android:src="@drawable/ic_example"
-    android:background="?attr/selectableItemBackgroundBorderless" />
-```
-- selectableItemBackground : 이 속성은 기본 선택 가능 배경을 적용하며, API 21 이상에서는 Ripple Effect가 포함됩니다.
-- selectableItemBackgroundBorderless : 이 속성은 테두리 없는 Ripple을 제공하며, 뷰의 경계에 클리핑되지 않습니다.
 
 2. 커스터마이즈하려면 커스텀 Ripple Drawable을 정의할 수 있습니다.<br>
 ripple_effect.xml 작성
