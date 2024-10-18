@@ -51,7 +51,7 @@ Android 스튜디오에서는 기본 쿼리 필드에서 바로 키-값 검색�
 > 다음과 같이 평가됩니다.<br>
 > tag:foo & -tag:bar & package:myapp
 
-여러 개의 검색어를 논리 연산자 없이 공백으로 구분하면 우선순위가 낮은 AND로 처리됩니다. 예를 들어 foo bar tag:bar1 | tag:bar2는 'foo bar' & (tag: bar1 | tag: bar2)와 동일하게 처리됩니다.
+여러 개의 검색어를 논리 연산자 없이 공백으로 구분하면 우선순위가 낮은 AND로 처리됩니다. 예를 들어 `foo bar tag:bar1 | tag:bar2는 'foo bar' & (tag: bar1 | tag: bar2)`와 동일하게 처리됩니다.
 
 ## 예제
 로컬 앱 프로젝트의 PID: package:mine<br>
