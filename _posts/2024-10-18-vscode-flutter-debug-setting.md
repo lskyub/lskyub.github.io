@@ -2,8 +2,8 @@
 layout: post
 title:  "VSCode에서 Flutter 디버그 설정하기(Windows)"
 date:   2024-10-18 09:00:00 +0900
-categories: flutter, vscode, windows
-tags: [flutter]
+categories: flutter
+tags: [flutter, vscode, windows]
 ---
 
 Flutter 프로젝트를 디버깅할 때, 올바른 디버그 설정을 통해 더 효율적으로 개발할 수 있습니다. 이번 글에서는 VSCode에서 Flutter 디버그 설정을 단계별로 설명하겠습니다.
