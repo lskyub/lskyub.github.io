@@ -15,7 +15,7 @@ Flutter 프로젝트의 디버그 설정은 launch.json 파일에 저장됩니�
 1. VSCode에서 RUN AND DEBUG를 엽니다. Ctrl + Shift + D (macOS의 경우 Cmd + Shift + D)를 눌러 RUN AND DEBUG 를 열 수 있습니다.<br>
 ![RUN AND DEBUG](/assets/img/1018-1-1.png)<br>
 
-2. `create a launch.json file`를 클릭하요 명령어 창을 실행 하고 Dart & Flutter를 선택 하여 기본 설정 파일을 생성 합니다.<br>
+2. `create a launch.json file`를 클릭 명령어 창을 실행 하고 Dart & Flutter를 선택 하여 기본 설정 파일을 생성 합니다.<br>
 ![RUN AND DEBUG](/assets/img/1018-1-2.png)<br>
 
 3. 파일을 생성하면 `.vscode/launch.json` 이 생성 되며 기본 json은 아래와 같이 생성 됩니다.<br>
