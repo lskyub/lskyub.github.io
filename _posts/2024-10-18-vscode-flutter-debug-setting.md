@@ -11,7 +11,10 @@ Flutter 프로젝트를 디버깅할 때, 올바른 디버그 설정을 통해 �
 # 1. launch.json 파일 생성하기
 Flutter 프로젝트의 디버그 설정은 launch.json 파일에 저장됩니다. 이 파일을 통해 어떤 파일을 실행할지, 어떤 디버그 모드로 실행할지 등을 지정할 수 있습니다.
 
-## launch.json 파일 생성 방법
+## 자동 launch.json 파일 생성 방법
+Flutter 프로젝트에서 main.dart 파일을 열고 F5 (또는 디버그 > 시작)를 눌러 디버깅을 시작하면, VSCode가 자동으로 launch.json 파일을 생성합니다.
+
+## 수동 launch.json 파일 생성 방법
 1. VSCode에서 RUN AND DEBUG를 엽니다. Ctrl + Shift + D (macOS의 경우 Cmd + Shift + D)를 눌러 RUN AND DEBUG 를 열 수 있습니다.<br>
 ![RUN AND DEBUG](/assets/img/1018-1-1.png)<br>
 
@@ -74,6 +77,15 @@ flutter devices
 ## 디버그 실행하기
 -  디버그 모드 실행: 디버그 모드를 시작하려면 F5 키를 누르거나, 왼쪽 사이드바의 디버그 아이콘을 클릭한 후 "RUN AND DEBUG"을 선택하면 됩니다.
 -  디바이스 선택: Flutter 디버깅은 실제 디바이스 또는 에뮬레이터에서 실행할 수 있습니다. 하단의 상태바에서 디바이스를 선택하고 디버그 모드를 시작할 수 있습니다.
+
+## 유용한 디버깅 명령
+- Hot Reload: 디버깅 중에 코드 변경 사항을 바로 반영하려면 Hot Reload 버튼(번개 모양)을 누르거나, Ctrl + Shift + \ (macOS에서는 Cmd + Shift + \)를 누릅니다.
+- Hot Restart: 앱을 다시 시작하려면 Hot Restart 버튼(재생 화살표 모양)을 클릭합니다.
+
+## 에뮬레이터 또는 디바이스 설정
+- Flutter 디버깅을 위해서는 에뮬레이터나 실제 디바이스가 연결되어 있어야 합니다.
+- 에뮬레이터 시작: VSCode 하단의 Flutter 디바이스 표시줄에서 사용할 수 있는 에뮬레이터를 선택하고, Start iOS Simulator 또는 Start Android Emulator를 선택합니다.
+실제 디바이스 연결: USB로 디바이스를 연결한 후 flutter devices 명령을 실행해 디바이스를 확인합니다.
 
 ## 최종 `launch.json`
 ```json
