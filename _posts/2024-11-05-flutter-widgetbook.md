@@ -69,7 +69,7 @@ final directories = [
 ];
 ```
 
-## 각 위젯에 @UseCase 애노테이션 추가
+## 각 위젯에 @UseCase 어노테이션 추가
 각 컴포넌트의 다양한 상태를 미리보기 위해 @UseCase 어노테이션을 활용할 수 있습니다.<br>
 아래 코드의 경우 CustomButton Widget을 생성하고 Widgetbook에서 미리 보기를 하기 위해
 @UseCase를 추가 하고 상태에 따라 구분하여 작성한 내용을 볼 수 있습니다.
