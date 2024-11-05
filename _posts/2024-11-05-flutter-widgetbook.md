@@ -210,6 +210,8 @@ jobs:
 # 결론
 Flutter 프로젝트에 Widgetbook을 적용하면 UI 컴포넌트를 체계적으로 관리하고 테스트할 수 있어 생산성과 협업 효율이 크게 향상됩니다.<br>
 
+## 패키지 구조 : 수정 및 추가 파일 
+![img-description](/assets/img/widgetbook.png)<br>
 
 ## 참고
 [Widgetbook Doc](https://docs.widgetbook.io/)
