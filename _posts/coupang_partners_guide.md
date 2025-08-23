@@ -81,4 +81,8 @@ hidden: true
 쿠팡 파트너스는 블로그, SNS, 유튜브 어디서든 활용할 수 있지만, **꾸준히
 글을 작성하고 검색 유입을 확보하는 것**이 가장 중요합니다.
 
+[골드박스](https://link.coupang.com/a/cj2Bxs)
+
+[홈](https://link.coupang.com/a/cj2Dbu)
+
 👉 오늘부터 바로 시작해서, 나만의 **수익형 블로그**를 만들어 보세요!
