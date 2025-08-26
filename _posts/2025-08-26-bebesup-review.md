@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "우리집 필수템, **베베숲 오리진 물티슈 캡형**"
-date: 2025-04-25
+date: 2025-08-26
 categories: 광고
 tags: [광고]
 hidden: true
