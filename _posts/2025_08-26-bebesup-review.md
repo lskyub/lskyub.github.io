@@ -81,7 +81,7 @@ hidden: true
 > "매일 쓰는 물티슈, 가성비와 안전성까지 챙기고 싶다면 베베숲 오리진이
 > 정답!"
 
-[베베숲 유아용 오리진 물티슈 캡형]([https://link.coupang.com/a/cj2Bxs](https://link.coupang.com/a/cMNMzZ))
+[베베숲 유아용 오리진 물티슈 캡형](https://link.coupang.com/a/cMNMzZ)
 
 [골드박스](https://link.coupang.com/a/cj2Bxs)
 
